@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">BluetoothTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_scan">Button Scan</string>
+    <string name="title_other_devices">Name</string>
+    <string name="title_paired_devices">123</string>
+    <string name="none_paired">123</string>
+    <string name="scanning">Scanning</string>
+    <string name="select_device">select device</string>
+    <string name="none_found">Can not found anyone.</string>
+</resources>
